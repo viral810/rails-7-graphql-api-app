@@ -50,3 +50,5 @@ end
 
 
 gem "graphql", "~> 2.0"
+
+gem "graphql_devise", "~> 1.2"
